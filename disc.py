@@ -44,4 +44,7 @@ print('loadcomps: ' + 'imported ' + libtvs.green('sucsessfuly'))
 print('')
 ''','root')
 AddToDir('__etc__minit__loadcomps','__etc__minit')
-__etc__minit__muslogin=file('__etc__
+
+# muslogin (masslori)
+
+#__etc__minit__muslogin=file('__etc__
